@@ -18,13 +18,17 @@ namespace Movies
         {
             InitializeComponent();
         }
+        public string GetTexto()
+        { string texto = TextBuscador.Text;
+            return texto;
+        }
+        public void NoSeBusca()
+        { listBox1.Items.Add("Debe ingresar al menos 3 caracteres en el cuadro de busqueda."); }
 
         public void mostrarInfo(Object o)
         {
 
             listBox1.Items.Add(o.ToString());
-
-
         }
 
         private void button6_Click(object sender, EventArgs e)

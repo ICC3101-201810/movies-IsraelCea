@@ -14,9 +14,17 @@ namespace Movies
 
         }
 
-        public void Searcher_OnSearch(object sender, EventArgs e)
+        public void Searcher_OnSearch(object sender, ARGS e)
         {
-            
+            e.texto = searcher.GetTexto();
+            if(e.texto.Length>=3)
+            {
+
+            }
+
+
+
+
         }
 
         //Metodo que compara strings, t1 es el string que se extrae del buscador
