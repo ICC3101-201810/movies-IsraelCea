@@ -1,0 +1,20 @@
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.exe.config
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.exe
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.pdb
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.Form1.resources
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.Properties.Resources.resources
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csproj.GenerateResource.Cache
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.exe
+C:\Users\ING\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.exe.config
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.exe
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\bin\Debug\Movies.pdb
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.Form1.resources
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.Properties.Resources.resources
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csproj.GenerateResource.cache
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.exe
+C:\Users\Billy Cea\Desktop\movies-IsraelCea\Movies\Movies\obj\Debug\Movies.pdb
