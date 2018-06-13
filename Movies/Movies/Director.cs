@@ -14,6 +14,10 @@ public class Director : Persona
             this.fechaNac = fechaNac;
             this.bibliografia = bibliografia;
         }
+        public override string ToString()
+        {
+            return "Director: " + nombre + " " + apellido;
+        }
 
     }
 

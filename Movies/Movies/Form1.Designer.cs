@@ -33,8 +33,10 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TextBuscador = new System.Windows.Forms.TextBox();
             this.button6 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -82,12 +84,12 @@
             this.button5.Text = "Estudios";
             this.button5.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // TextBuscador
             // 
-            this.textBox1.Location = new System.Drawing.Point(51, 26);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(554, 20);
-            this.textBox1.TabIndex = 6;
+            this.TextBuscador.Location = new System.Drawing.Point(51, 26);
+            this.TextBuscador.Name = "TextBuscador";
+            this.TextBuscador.Size = new System.Drawing.Size(554, 20);
+            this.TextBuscador.TabIndex = 6;
             // 
             // button6
             // 
@@ -99,13 +101,32 @@
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(51, 147);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(554, 199);
+            this.listBox1.TabIndex = 8;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(48, 123);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 13);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "Resultados";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(792, 322);
+            this.ClientSize = new System.Drawing.Size(792, 403);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button6);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.TextBuscador);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -125,8 +146,10 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox TextBuscador;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Label label1;
     }
 }
 

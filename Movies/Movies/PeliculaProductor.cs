@@ -16,5 +16,13 @@ namespace Movies
             this.pelicula = pelicula;
             this.productor = productor;
         }
+        public Pelicula GetPelicula()
+        {
+            return pelicula;
+        }
+        public Productor GetProductor()
+        {
+            return productor;
+        }
     }
 }

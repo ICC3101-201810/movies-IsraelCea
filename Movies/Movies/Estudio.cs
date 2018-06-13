@@ -15,6 +15,10 @@ namespace Movies
             this.direccion = direccion;
             this.fechaApertura = fechaApertura;
         }
+        public override string ToString()
+        {
+            return "Estudio: " + nombre + " ---Direccion;" + direccion;
+        }
     }
 
 }

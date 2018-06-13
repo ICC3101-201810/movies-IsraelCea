@@ -16,6 +16,13 @@ namespace Movies
             this.pelicula = pelicula;
             this.actor = actor;
         }
-
+        public Pelicula GetPelicula()
+        {
+            return pelicula;
+        }
+        public Actor GetActor()
+        {
+            return actor;
+        }
     }
 }

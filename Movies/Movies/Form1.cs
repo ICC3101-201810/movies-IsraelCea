@@ -12,9 +12,19 @@ namespace Movies
 {
     public partial class Form1 : Form
     {
+        public event EventHandler<ARGS> OnSearch;
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        public void mostrarInfo(Object o)
+        {
+
+            listBox1.Items.Add(o.ToString());
+
+
         }
 
         private void button6_Click(object sender, EventArgs e)

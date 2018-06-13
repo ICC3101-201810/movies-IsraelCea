@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 
 namespace Movies
@@ -15,6 +16,12 @@ namespace Movies
             this.fechaNac = fechaNac;
             this.bibliografia = bibliografia;
         }
+
+        public override string ToString()
+        {
+            return "Actor: " + nombre + " " + apellido ;
+        }
     }
+
 
 }
